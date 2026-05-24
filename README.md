@@ -61,7 +61,7 @@ Me chamo Raíssa Ívyna, tenho 21 anos e sou natural do Ceará. Atualmente, esto
   align="left" 
   alt="Top Langs" 
   height="200" 
-  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=raissaivyna&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=raissaivyna&theme=tokyonight" 
 />
 
 <br clear="left"/>
