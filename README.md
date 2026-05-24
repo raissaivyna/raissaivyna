@@ -2,7 +2,7 @@
 
 **`Desenvolvedora de Software`**
 
-Me chamo Raíssa Ívyna, tenho 21 anos e sou natural do Ceará. Eu sempre gostei e topei desafios, então em 2022 tive o meu primeiro contato com a programação, foi o período em que comecei a consolidar os meus estudos na lógica de programação. Estudos estes que tornaram-se luz para eu firmar as minhas próximas metas. Ao notar meu grande interesse em tecnologia, análogo a forte habilidade interpessoal de resolver problemas decidi que seria Engenheira da Computação. Com este objetivo firmado, em 2023 passei no curso de Engenharia de Computação da Universidade Federal do Ceará (UFC) e desde então tenho me concentrado em meus conhecimentos teóricos, e sobretudo, práticos, e compartilho um 
+Me chamo Raíssa Ívyna, tenho 21 anos e sou natural do Ceará. Eu sempre gostei e topei desafios, então em 2022 tive o meu primeiro contato com a programação, foi o período em que comecei a consolidar os meus estudos na lógica de programação. Estudos estes que tornaram-se luz para eu firmar as minhas próximas metas. Ao notar meu grande interesse em tecnologia, análogo a forte habilidade interpessoal de resolver problemas decidi que seria Engenheira da Computação. Então em 2023 passei no curso de Engenharia de Computação da Universidade Federal do Ceará (UFC) e desde então tenho me concentrado em meus conhecimentos teóricos, e sobretudo, práticos, e compartilho um 
 pouco disso através do meu GitHub!
 
 <p align="left">
@@ -50,19 +50,21 @@ pouco disso através do meu GitHub!
 
 ### 📊 Estatísticas
 
-<img
-  align="left"
-  alt="GitHub Stats"
-  height="200"
-  style="padding-right: 10px;"
-  src="https://github-readme-streak-stats.herokuapp.com/?user=raissaivyna&theme=tokyonight&locale=pt-br"
-/>
-
-<img
-  align="left"
-  alt="Top Langs"
-  height="200"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=raissaivyna&theme=tokyonight"
-/>
-
-<br clear="left"/>
+<table>
+  <tr>
+    <td>
+      <img 
+        alt="GitHub Stats" 
+        height="200" 
+        src="https://github-readme-streak-stats.herokuapp.com/?user=raissaivyna&theme=tokyonight&locale=pt-br"
+      />
+    </td>
+    <td>
+      <img 
+        alt="Top Langs" 
+        height="200" 
+        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=raissaivyna&theme=tokyonight"
+      />
+    </td>
+  </tr>
+</table>
